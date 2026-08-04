@@ -7,6 +7,15 @@ Guardion is a full-stack cybersecurity SaaS platform that protects developers ac
 3.Static Code Analysis — Detects hardcoded credentials, command injection, SQL injection, weak cryptography, and more — with AI-powered fix suggestions
 
 
+### Prerequisites
+
+- **Python 3.10+**
+- **Node.js 18+**
+- **MongoDB Atlas** account (or local MongoDB)
+- **Google Gemini API Key** — [Get one free](https://aistudio.google.com/apikey)
+
+
+
 
 ## 🧩 Project Structure
 
